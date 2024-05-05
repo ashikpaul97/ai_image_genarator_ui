@@ -1,16 +1,10 @@
 # ai_image_genarator
 
-A new Flutter project.
+A Simple Flutter project.
 
-## Getting Started
+# Screenshot
+![ai_1](https://github.com/ashikpaul97/ai_image_genarator_ui/assets/140520918/f800e456-acc8-4bda-b7ba-308120d7469d)
 
-This project is a starting point for a Flutter application.
+![ai_2](https://github.com/ashikpaul97/ai_image_genarator_ui/assets/140520918/aafa06de-5f88-42e6-85ef-7e3168714090)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ai_3](https://github.com/ashikpaul97/ai_image_genarator_ui/assets/140520918/63f5b434-0013-435d-a7d0-3d12a8efc467)
